@@ -35,7 +35,7 @@ To use this project, follow these steps:
 2. Replace the default image "Rajeev.jpg" with your face for testing.
 3. Run the code to extract faces, load the VGGFace model, and perform face recognition.
 4. You can also extract faces from images in the "friends" folder and test the model on a video by following the provided instructions.
-
-**Note:** Make sure to download the pre-trained weights for the VGGFace model and place them in the project directory.
+5. Make sure to download the pre-trained weights for the VGGFace model and place them in the project directory called as vgg_face_weights.h5.
+6. If you are using Apple silicon chips, install anaconda and create new environment using the environment.\_mlpyml file provided in the repository.
 
 For more details and the code, refer to the Jupyter Notebook provided in this repository.
